@@ -16,6 +16,7 @@ window.onscroll =() =>{
         }
     })
 }
+// ADDING MY NAME IN THIS SCRIPT -- BANNU ROYALS
 
 
 
